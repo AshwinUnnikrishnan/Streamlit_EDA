@@ -64,7 +64,6 @@ numpy==1.23.5
 orjson==3.9.9
 packaging==23.2
 pandas==1.5.3
-pandas-profiling==3.6.6
 parso==0.8.3
 patsy==0.5.3
 pexpect==4.8.0
